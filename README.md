@@ -1,4 +1,4 @@
-# 🚀 FocusFlow – Productivity Tracker
+#  FocusFlow – Productivity Tracker
 
 FocusFlow is a simple productivity web app I built to help users manage their daily tasks and stay consistent. It allows you to track what you need to do, monitor your progress, and visualize your productivity over time.
 
@@ -10,7 +10,7 @@ FocusFlow is a simple productivity web app I built to help users manage their da
 
 ---
 
-## ✨ Features
+##  Features
 
 * User login and registration
 * Add, complete, and delete tasks
@@ -43,7 +43,7 @@ python app.py
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 While building this project, I learned how to:
 
@@ -64,13 +64,9 @@ While building this project, I learned how to:
 
 ---
 
-## 👩‍💻 Author
+##  Author
+Priyadharshini K
+Aspiring Software Developer !!!
 
-Priya (Star)
-Aspiring Software Developer 🚀
-
----
-
-## ⭐
 
 If you liked this project, feel free to give it a star!
